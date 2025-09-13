@@ -1,4 +1,6 @@
-# Test Cases - Gmail Login
+# Test Cases - Gmail Login in Chrome
+
+**Test will be running in all operating systems: Windows 10, Ios, Android**
 
 # Test Case 001 - Login With Valid Credentials
 **Precondition:** A user accaunt with valid Email and password existing in the system.
