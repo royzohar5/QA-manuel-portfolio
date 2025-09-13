@@ -1,0 +1,57 @@
+# Test Cases - Gmail Login in Safari
+
+**Test will be running in operating systems Ios**
+
+# Test Case 001 - Login With Valid Credentials
+**Precondition:** A user accaunt with valid Email and password existing in the system.
+
+**Steps:**
+1. Nevigate to login's page.
+2. Enter valid Email adress.
+3. Press "Next".
+4. Enter valid password.
+5. Press "Next".
+
+**Expected Result:** The user login.
+
+# Test Case 002 - Login With Incorrect Password
+**Precondition:** A user accaunt with valid Email but with incorrect password.
+
+**Steps:**
+1. Nevigate to login's page.
+2. Enter valid Email adress.
+3. Press "Next".
+4. Enter incorrect password.
+5. Press "Next".
+
+**Expected Result:** Appropriate error instraction.
+
+# Test Case 003 - Login With Invalid Email adress
+**Precondition:** Invalid Email adrees.
+
+**Steps:**
+1. Nevigate to login's page.
+2. Enter invalid Email adress.
+3. Press "Next".
+
+**Expected Result:** Appropriate error instraction.
+
+# Test Case 004 - Login With Invalid Email adress
+**Precondition:** Invalid Email adrees.
+
+**Steps:**
+1. Nevigate to login's page.
+2. Enter invalid Email adress.
+3. Press "Next".
+
+**Expected Result:** Appropriate error instraction.
+
+# Test Case 005 - Login With empty Email adress
+**Precondition:** Empty Email adrees.
+
+**Steps:**
+1. Nevigate to login's page.
+2. Don't enter Email addres.
+3. Press "Next".
+
+**Expected Result:** Appropriate error instraction.
