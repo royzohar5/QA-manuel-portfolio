@@ -1,0 +1,40 @@
+# Bug Reports - Gmail Login
+
+# Bug Report 001
+
+**Title:** Unclear error message
+
+**Steps to Reproduce:**  
+1. Nevigate to login's page.
+2. Enter valid Email adress.
+3. Press "Next".
+4. Enter invalid password.
+5. Press "Next".  
+
+**Expected Result:**  
+Display clear message: "Password is required"  
+
+**Actual Result:**  
+Display unclear message: "Error 01"  
+
+**Severity:** Medium  
+ 
+# Bug Report 002
+
+**Title:** Cannot try password again
+
+**Steps to Reproduce:**  
+1. Nevigate to login's page.
+2. Enter valid Email adress.
+3. Press "Next".
+4. Enter invalid password.
+5. Press "Next".
+6. Press "Try again" button.
+
+**Expected Result:**  
+Return back to login page   
+
+**Actual Result:**  
+Dispaly error message and dont come back to login page.
+
+**Severity:** Medium
