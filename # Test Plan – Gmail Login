@@ -1,0 +1,35 @@
+# Test Plan – Gmail Login
+
+## 1. Introduction / Scope
+Gmail's login system works in a proper manner.
+
+## 2. Objectives
+- Login to the site is done properly.
+- The system distinguishes between registered and unregistered users and knows how to notify them of this.
+
+## 3. Test Items
+- Login page
+- Error instraction
+
+## 4. Out of Scope
+- sign up
+- User's system after the login 
+
+## 5. Test Approach
+- **Functional Testing** – Login test
+- **Negative Testing** – Login with invalid credentials  
+- **Usability Testing** – Message clarity, basic user experience.
+- **Compatibility Testing** – test with different browsers, different devices. 
+
+## 6. Test Environment
+- Operating systems: Windows 10, Ios, Android  
+- Browsers: Chrome, Firefox, Edge, Safari.  
+
+## 7. Entry Criteria
+- System available and aprochable
+- Valid users in the system
+
+## 8. Exit Criteria
+- All test cases have been defined and executed.
+- All critical bugs have been fixed or documented.
+- There are no open issues that prevent continued use.  
